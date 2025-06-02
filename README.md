@@ -30,4 +30,5 @@ Publicar e versionar o projeto utilizando o GitHub e o Vercel.
 
 🌐 Link de visualização
 
-👉 Acesse aqui o projeto hospedado no Vercel
+👉 [Acesse aqui o projeto hospedado no Vercel
+](https://aluraplus-eight-weld.vercel.app/)
